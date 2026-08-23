@@ -48,11 +48,10 @@ The project is structured modularly across multiple Python files:
 
 ![Main Menu](https://raw.githubusercontent.com/FarazAliID/Inventory-Stock-Management-System/main/Screenshots/Output-Screenshot/main-menu.jpg)
 
-
-> 📁 **Note:** Complete screenshots are organized in the [`screenshots/`](./screenshots) folder:
-> * 💻 [Code Screenshots](./screenshots/code/)
-> * 📄 [Data Files Screenshots](./screenshots/data/)
-> * 🖥️ [Output Screenshots](./screenshots/output/)
+> 📁 **Note:** All project screenshots are organized in the [`Screenshots/`](https://github.com/FarazAliID/Inventory-Stock-Management-System/tree/main/Screenshots) folder:
+> * 💻 [Code Screenshots](https://github.com/FarazAliID/Inventory-Stock-Management-System/tree/main/Screenshots/Code-Screenshots)
+> * 📄 [Data Files Screenshots](https://github.com/FarazAliID/Inventory-Stock-Management-System/tree/main/Screenshots/Data-Screenshots)
+> * 🖥️ [Output Screenshots](https://github.com/FarazAliID/Inventory-Stock-Management-System/tree/main/Screenshots/Output-Screenshot)
 
 ---
 
