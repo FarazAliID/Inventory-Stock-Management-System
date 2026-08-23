@@ -46,9 +46,13 @@ The project is structured modularly across multiple Python files:
 
 ## 📸 Main Interface
 
-![Main Menu]()
+![Main Menu](https://raw.githubusercontent.com/FarazAliID/Inventory-Stock-Management-System/main/Screenshots/Output-Screenshot/main-menu.jpg)
 
-> 📁 **Note:** All additional screenshots (Code snippets, Data files, and Output screens) are saved in the [`screenshots/`](./screenshots) folder.
+
+> 📁 **Note:** Complete screenshots are organized in the [`screenshots/`](./screenshots) folder:
+> * 💻 [Code Screenshots](./screenshots/code/)
+> * 📄 [Data Files Screenshots](./screenshots/data/)
+> * 🖥️ [Output Screenshots](./screenshots/output/)
 
 ---
 
@@ -58,6 +62,6 @@ The project is structured modularly across multiple Python files:
    ```bash
    git clone https://github.com/FarazAliID/Inventory-Stock-Management-System
 
-   cd inventory-management-system-python.git
+   cd Inventory-Stock-Management-System
 
    python main.py
